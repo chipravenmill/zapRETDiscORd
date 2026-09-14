@@ -1,0 +1,20 @@
+# zapRETDiscORd
+
+> Обновлённая версия с улучшенной поддержкой Discord. Стабильнее, надежнее, быстрее
+
+Если Discord висит на Connecting, zapRETDiscORd поднимает голосовые и видео без стороннего туннеля.
+
+## Страницы
+- Сайт: https://chipravenmill.github.io/zapRETDiscORd/
+- Релиз: https://github.com/chipravenmill/zapRETDiscORd/releases/latest
+- Исходный код: https://github.com/chipravenmill/zapRETDiscORd
+- Движок: https://github.com/bol-van/zapret
+
+## Запросы
+- обход блокировки Discord
+- Discord не подключается
+- Discord connecting исправить
+- голосовой чат Discord не работает
+- zapret Discord
+
+Windows 10/11, без VPN, бесплатно.
